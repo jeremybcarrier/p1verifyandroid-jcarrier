@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631229072440",
+    "project_id": "p1verify-android-jcarrier",
+    "storage_bucket": "p1verify-android-jcarrier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631229072440:android:0293caf508b5b6a94012cd",
+        "android_client_info": {
+          "package_name": "com.pingidentity.sample.P1VerifyApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631229072440-omh74uj5sf4nm2evh601184200la847n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjeU3NmVvEevbfRjBkDOI2wdpzoCWxYDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631229072440-omh74uj5sf4nm2evh601184200la847n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
